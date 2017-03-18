@@ -41,3 +41,7 @@ p:only-child {
     background-color: aqua;
 }
 
+#kontener > p:nth-child(even){
+    background-color: aquamarine;
+}
+
