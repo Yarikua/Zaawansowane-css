@@ -1,0 +1,21 @@
+a{
+  color: aquamarine;
+}
+
+a:visited {
+    color: violet;
+}
+
+a:hover {
+    color: red;
+}
+a:active{
+    color: darkkhaki;
+}
+
+a:focus {
+    color: chartreuse;
+}
+a:lang(pl){
+    background-color: yellow;
+}
