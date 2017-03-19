@@ -1,0 +1,13 @@
+body {
+    background-color: aquamarine;
+    color: blue;
+}
+
+#pierwszy {
+    
+    background-image: url("../img/510177542.jpg");
+    background-repeat:no-repeat;
+    background-position: left top;
+    background-size: cover;
+    
+}

@@ -1,0 +1,39 @@
+#box {
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+    transition: width 1s;
+}
+
+#box:hover {
+    width: 300px;    
+}
+
+#box2 {
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    transition: height 1s;
+}
+#box2:hover {
+    height: 300px;    
+}
+
+#box3 {
+    margin: 10px;
+    text-align: center;
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+    transition: width 1s, height 1s, transform 1s, background-color 1s, border 1s;
+}
+
+#box3:hover {
+    border: solid red 10px;
+    width: 300px;
+    height: 300px;
+    transform:rotate(180deg);
+    background-color: aquamarine;
+}

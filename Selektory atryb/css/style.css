@@ -1,0 +1,15 @@
+div[titel]{
+    background-color: yellow;
+}
+
+div[suma="1500"] {
+    background-color: aqua;
+}
+
+div[class*="kluczowy"] {
+    background-color: lime;
+}
+
+div[title$="1"] {
+    background-color: blue;
+}

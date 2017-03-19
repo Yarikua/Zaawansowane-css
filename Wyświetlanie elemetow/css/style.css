@@ -1,0 +1,27 @@
+#blokowy1 {
+    background-color: aqua;
+}
+
+#blokowy2 {
+    background-color: yellow;
+}
+
+p{
+    display: inline;
+}
+
+#liniowo-blokowy1 {
+    background-color: lightcoral;
+}
+
+#liniowo-blokowy2 {
+    background-color: lightgreen;
+}
+
+p.liniowo-blokowy {
+    display: inline-block;
+}
+
+div#kontener2 {
+    text-align: center;
+}
