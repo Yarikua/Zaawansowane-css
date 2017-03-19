@@ -1,5 +1,11 @@
+body{
+    background-color: lemonchiffon;
+}
+
 div{
     border: solid 1px red;
+    margin: 0px;
+    padding: 3px;
 }
 
 #paragraf1{

@@ -1,6 +1,4 @@
 div{
-    margin: 0px;
-    padding: 3px;
     width: 30%;
     display: inline-block;
 }
@@ -13,7 +11,7 @@ div{
 
 @media (min-width:999px) and (max-width:1168px){
     div{
-        width: 24%;
+        width: 23%;
         font-size: 25px;
     }
 }
