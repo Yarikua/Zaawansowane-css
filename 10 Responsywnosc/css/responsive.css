@@ -1,0 +1,51 @@
+div{
+    margin: 0px;
+    padding: 3px;
+    width: 30%;
+    display: inline-block;
+}
+
+@media (min-width:1168px){
+    div{
+        width: 24%; 
+    }
+}
+
+@media (min-width:999px) and (max-width:1168px){
+    div{
+        width: 24%;
+        font-size: 25px;
+    }
+}
+
+@media (min-width:769px) and (max-width:998px){
+    div{
+        width: 48%;
+    }
+}
+
+@media (min-width:481px) and (max-width:768px){
+    div{
+        width: 90%;
+        font-size: 30px;
+    }
+}
+
+@media (max-width:480px){
+    div{
+        width: 90%;
+        font-size: 17px;
+    }
+}
+
+
+
+
+
+
+
+    
+
+
+
+
